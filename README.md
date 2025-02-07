@@ -50,3 +50,5 @@ download the dataset from
 https://covid19.who.int/
 https://covid19.who.int/
 hashtag#powerbi hashtag#sql hashtag#dataanalyst
+
+![Image](https://github.com/user-attachments/assets/48fc1f6d-d46e-4e77-9953-71b052a94f71)
